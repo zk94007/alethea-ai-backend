@@ -1,0 +1,23 @@
+{% extends "account_base.html" %}
+{% load i18n %}
+{% load account %}
+{% block head_title %}{% trans "Confirm E-mail Address" %}{% endblock %}
+{% block content %}
+<html lang="US">
+    <head>
+    <title>Althea API</title>
+    </head>
+    <body>
+        <div>
+            <form method="post" action="{% url 'account_confirm_email' confirmation.key %}" style="margin-top: 10%;">
+                <h1 align="center" style="color: #985f0d; font-size: 60px;">{% trans "Confirm Email" %}</h1>
+                    {% csrf_token %}
+                    <h2 align="center" style="margin-top: -30px; margin-bottom: 30px;" >{% blocktrans with email=confirmation.email_address.email %}Confirm email address <b>{{ email }}</b>?{% endblocktrans %}</h2>
+                <h3 align="center">
+                    <button type="submit" class="btn btn-primary" align="center" style="height: 70px; width: 120px; font-size: x-large; border-radius: 2px; background-color: #8a6d3b; color: white;">{% trans "Confirm" %}</button>
+                </h3>
+            </form>
+        </div>
+    </body>
+</html>
+{% endblock %}

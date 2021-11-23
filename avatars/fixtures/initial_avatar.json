@@ -1,0 +1,418 @@
+[
+  {
+    "pk": 1,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Emily AI",
+      "video_key": "Emily_AI.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Emily_AI.png",
+      "creator": "Miss B",
+      "creator_link": "https://market.alethea.ai/creator_link/1790/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Master CZ",
+      "video_key": "Master_CZ.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Master_CZ.png",
+      "creator": "Crypto Creative",
+      "creator_link": "https://market.alethea.ai/creator_link/1787/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": false,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Evy",
+      "video_key": "Evy.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Evy.png",
+      "creator": "Miss B",
+      "creator_link": "https://market.alethea.ai/creator_link/1790/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-20",
+      "name": "Dr. Lee",
+      "video_key": "DrLee.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/DrLee.jpg",
+      "creator": "The Professor",
+      "creator_link": "https://market.alethea.ai/creator_link/1963/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Lord Nazarov",
+      "video_key": "Lord_Nazarov.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Lord_Nazarov.png",
+      "creator": "Crypto Creative",
+      "creator_link": "https://market.alethea.ai/creator_link/1787/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Carl",
+      "video_key": "Carl.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Carl.png",
+      "creator": "Miss B",
+      "creator_link": "https://market.alethea.ai/creator_link/1790/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "QT",
+      "video_key": "QT.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/QT.png",
+      "creator": "GAN Master",
+      "creator_link": "https://market.alethea.ai/creator_link/1676/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Vitalock",
+      "video_key": "Vitalock.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Vitalock.png",
+      "creator": "Crypto Creative",
+      "creator_link": "https://market.alethea.ai/creator_link/1787/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Alice",
+      "video_key": "Alice.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Alice.png",
+      "creator": "Vocalize",
+      "creator_link": "https://market.alethea.ai/creator_link/1792/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-20",
+      "name": "Salman",
+      "video_key": "Salman.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Salman.png",
+      "creator": "The Professional",
+      "creator_link": "https://market.alethea.ai/creator_link/1963/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Viktor",
+      "video_key": "Viktor.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Viktor.png",
+      "creator": "Vocalize",
+      "creator_link": "https://market.alethea.ai/creator_link/1792/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": false,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Zuck Data",
+      "video_key": "Zuck_Data.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Zuck_Data.png",
+      "creator": "GAN Master",
+      "creator_link": "https://market.alethea.ai/creator_link/1676/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Nurse Shalini",
+      "video_key": "Nurse_Shalini.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Nurse_Shalini.png",
+      "creator": "Miss B",
+      "creator_link": "https://market.alethea.ai/creator_link/1790/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Martin",
+      "video_key": "Martin.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Martin.png",
+      "creator": "Vocalize",
+      "creator_link": "https://market.alethea.ai/creator_link/1792/",
+      "type_avatar": "user-generated",
+      "is_public": true,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-20",
+      "name": "Alejandro",
+      "video_key": "Alex_Masmej.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Alex_Masmej.png",
+      "creator": "Alex Masmej",
+      "creator_link": "https://market.alethea.ai/creator_link/1965/",
+      "type_avatar": "tokenized",
+      "is_public": true,
+      "is_active": true,
+      "is_locked": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-11-17",
+      "name": "Adrian",
+      "video_key": "Adrian.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Adrian.png",
+      "creator": "Private",
+      "creator_link": "",
+      "type_avatar": "user-generated",
+      "is_public": false,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-10-25",
+      "name": "Your AI Avatar",
+      "video_key": "",
+      "image_src": "",
+      "creator": "",
+      "creator_link": "",
+      "type_avatar": "tokenized",
+      "is_public": true,
+      "is_active": true,
+      "is_locked": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-11-18",
+      "name": "Elena",
+      "video_key": "Elena.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Elena.png",
+      "creator": "Private",
+      "creator_link": "",
+      "type_avatar": "user-generated",
+      "is_public": false,
+      "is_active": false,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-11-18",
+      "name": "Nadir Zafar",
+      "video_key": "Nadir_Zafar.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Nadir_Zafar.png",
+      "creator": "Private",
+      "creator_link": "",
+      "type_avatar": "user-generated",
+      "is_public": false,
+      "is_active": false,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-11-24",
+      "name": "Baby",
+      "video_key": "Baby.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Baby.png",
+      "creator": "Private",
+      "creator_link": "",
+      "type_avatar": "user-generated",
+      "is_public": false,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-12-8",
+      "name": "Balaji Srinivasan 1",
+      "video_key": "Balaji_Srinivasan_1.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Balaji_Srinivasan_1.png",
+      "creator": "Private",
+      "creator_link": "",
+      "type_avatar": "user-generated",
+      "is_public": false,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-12-8",
+      "name": "Balaji Srinivasan 2",
+      "video_key": "Balaji_Srinivasan_2.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Balaji_Srinivasan_2.png",
+      "creator": "Private",
+      "creator_link": "",
+      "type_avatar": "user-generated",
+      "is_public": false,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "avatars.Avatar",
+    "fields": {
+      "email": "cesar.rdz.work@gmail.com",
+      "date": "2020-12-15",
+      "name": "Jennifer Yoo",
+      "video_key": "Jennifer_Yoo.mp4",
+      "image_src": "https://d2iia7yeg2usc9.cloudfront.net/Jennifer_Yoo.png",
+      "creator": "Private",
+      "creator_link": "",
+      "type_avatar": "user-generated",
+      "is_public": false,
+      "is_active": true,
+      "created": "2021-5-5T00:27:39.454Z",
+      "updated": "2020-5-5T00:27:39.454Z"
+    }
+  }
+]

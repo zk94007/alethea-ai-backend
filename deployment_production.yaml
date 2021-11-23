@@ -1,0 +1,50 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: production-deployment
+  namespace: production
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: production-deployment
+  template:
+    metadata:
+      labels:
+        app: production-deployment
+    spec:
+      containers:
+      - image: gcr.io/cesar-audio-model/production-image:{{BUILD_NUMBER}}
+        imagePullPolicy: Always
+        name: production
+        ports:
+        - containerPort: 8000
+          protocol: TCP
+        volumeMounts:
+        - mountPath: /usr/src/app/server/.env
+          name: envfile
+          readOnly: true
+          subPath: .env
+      volumes:
+      - configMap:
+          defaultMode: 420
+          items:
+          - key: test.property
+            path: .env
+          name: appcm
+        name: envfile
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: production-deployment-svc
+  namespace: production
+spec:
+  ports:
+  - port: 80
+    protocol: TCP
+    targetPort: 8000
+  selector:
+    app: production-deployment
+  sessionAffinity: None
+  type: ClusterIP

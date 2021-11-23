@@ -1,0 +1,218 @@
+[
+  {
+    "pk": 1,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 1,
+      "email": "cesar.rdz.work@gmail.com"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 1,
+      "email": "ahmad@alethea.ai"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 16,
+      "email": "jimmysia@gmail.com"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 16,
+      "email": "arif@alethea.ai"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 16,
+      "email": "cesar.rdz.work@gmail.com"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 16,
+      "email": "ahmad@alethea.ai"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 18,
+      "email": "arif@alethea.ai"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 18,
+      "email": "cesar.rdz.work@gmail.com"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 18,
+      "email": "ahmad@alethea.ai"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 19,
+      "email": "arif@alethea.ai"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 19,
+      "email": "cesar.rdz.work@gmail.com"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 19,
+      "email": "ahmad@alethea.ai"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 20,
+      "email": "cryptoaiprofit@gmail.com"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 20,
+      "email": "arif@alethea.ai"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 20,
+      "email": "cesar.rdz.work@gmail.com"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 20,
+      "email": "ahmad@alethea.ai"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 21,
+      "email": "balajis@balajis.com"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 21,
+      "email": "arif@alethea.ai"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 21,
+      "email": "cesar.rdz.work@gmail.com"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 21,
+      "email": "ahmad@alethea.ai"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 22,
+      "email": "balajis@balajis.com"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 22,
+      "email": "arif@alethea.ai"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 22,
+      "email": "cesar.rdz.work@gmail.com"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 22,
+      "email": "ahmad@alethea.ai"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 23,
+      "email": "arif@alethea.ai"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 23,
+      "email": "cesar.rdz.work@gmail.com"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "avatars.AvatarEmail",
+    "fields": {
+      "avatar_id": 23,
+      "email": "ahmad@alethea.ai"
+    }
+  }
+]
